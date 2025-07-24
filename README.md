@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Cosmos DAO member! 👋
 
 <!--
 **Cosmosdao/CosmosDAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##Project overview<br>
+Cosmos DAO is a DeFi 3.0 protocol designed to overcome the limitations of existing DeFi 2.0 protocols, utilizing algorithm-based unstable coins and anonymous stablecoins to create the world's first privacy-focused DeFi ecosystem. Operating as a decentralized autonomous organization (DAO) independent of the Cosmos ecosystem, it employs enhanced governance, a price stability system, and privacy/anonymity features to redefine global financial standards and lead future financial innovation.
+
