@@ -24,5 +24,4 @@
 
 ***
 
-* [Governance](governance.md)
 * [Security](security.md)
