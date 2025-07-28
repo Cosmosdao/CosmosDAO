@@ -12,3 +12,7 @@
 
 * [$COS](about-cosmosdao-token/usdcos/README.md)
   * [COS and gCOS](about-cosmosdao-token/usdcos/cos-and-gcos.md)
+
+***
+
+* [Security](security.md)
