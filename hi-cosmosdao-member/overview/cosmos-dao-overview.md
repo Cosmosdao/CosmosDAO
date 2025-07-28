@@ -1,4 +1,4 @@
-# Over view
+# Cosmos DAO Overview
 
 ## What is Cosmos DAO?
 
