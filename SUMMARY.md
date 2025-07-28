@@ -12,12 +12,7 @@
 
 * [$COS](about-cosmosdao/usdcos/README.md)
   * [COS and gCOS](about-cosmosdao/usdcos/cos-and-gcos.md)
-* [Governance](about-cosmosdao/governance/README.md)
-  * [gKOS Token and Voting Rights](about-cosmosdao/governance/gkos-token-and-voting-rights.md)
-  * [Governance process](about-cosmosdao/governance/governance-process.md)
-  * [How to Participate in Governance](about-cosmosdao/governance/how-to-participate-in-governance.md)
-  * [Key Governance Decisions](about-cosmosdao/governance/key-governance-decisions.md)
-  * [Features of On-Chain Governance](about-cosmosdao/governance/features-of-on-chain-governance.md)
+  * [COS's Smart contract](about-cosmosdao/usdcos/coss-smart-contract.md)
 
 ## Governance
 
@@ -29,5 +24,5 @@
 
 ***
 
-* [Governance](governance-1.md)
+* [Governance](governance.md)
 * [Security](security.md)
