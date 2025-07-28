@@ -19,8 +19,15 @@
   * [Key Governance Decisions](about-cosmosdao/governance/key-governance-decisions.md)
   * [Features of On-Chain Governance](about-cosmosdao/governance/features-of-on-chain-governance.md)
 
+## Governance
+
+* [gKOS](governance/gkos.md)
+* [Governance process](governance/governance-process.md)
+* [How to Participate in Governance](governance/how-to-participate-in-governance.md)
+* [Key Governance Decisions](governance/key-governance-decisions.md)
+* [Features of On-Chain Governance](governance/features-of-on-chain-governance.md)
+
 ***
 
-* [Page](page.md)
-* [Governance](governance.md)
+* [Governance](governance-1.md)
 * [Security](security.md)
