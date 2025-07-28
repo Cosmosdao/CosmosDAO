@@ -1,12 +1,12 @@
 # Table of contents
 
-## 👏 Hi! CosmosDAO member!
+## 👏 CosmosDAO
 
 * [Hi Cosmos DAO member! 👋](README.md)
-* [Overview](hi-cosmosdao-member/overview/README.md)
-  * [Cosmos DAO Overview](hi-cosmosdao-member/overview/cosmos-dao-overview.md)
-  * [What Are the Goals of Cosmos DAO?](hi-cosmosdao-member/overview/what-are-the-goals-of-cosmos-dao.md)
-  * [What Can You Do in Cosmos DAO?](hi-cosmosdao-member/overview/what-can-you-do-in-cosmos-dao.md)
+* [Overview](cosmosdao/overview/README.md)
+  * [Cosmos DAO Overview](cosmosdao/overview/cosmos-dao-overview.md)
+  * [What Are the Goals of Cosmos DAO?](cosmosdao/overview/what-are-the-goals-of-cosmos-dao.md)
+  * [What Can You Do in Cosmos DAO?](cosmosdao/overview/what-can-you-do-in-cosmos-dao.md)
 
 ## About CosmosDAO Token
 
