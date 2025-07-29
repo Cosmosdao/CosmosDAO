@@ -13,6 +13,7 @@
 * [$COS](about-cosmosdao/usdcos/README.md)
   * [COS and gCOS](about-cosmosdao/usdcos/cos-and-gcos.md)
   * [COS's Smart contract](about-cosmosdao/usdcos/coss-smart-contract.md)
+* [Treasury](about-cosmosdao/treasury.md)
 
 ## Governance
 
