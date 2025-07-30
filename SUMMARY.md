@@ -18,7 +18,7 @@
 
 ## Governance
 
-* [gKOS](governance/gkos.md)
+* [gCOS](governance/gcos.md)
 * [Governance process](governance/governance-process.md)
 * [How to Participate in Governance](governance/how-to-participate-in-governance.md)
 * [Key Governance Decisions](governance/key-governance-decisions.md)
