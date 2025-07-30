@@ -2,13 +2,13 @@
 
 **Obtain KOS:**
 
-* Purchase KOS on a DEX or acquire it at a discounted price through bonding.
+* Purchase COS on a DEX or acquire it at a discounted price through bonding.
 
 
 
 **Convert to gKOS:**
 
-* Wrap KOS into gKOS using the Cosmos DAO wrapping contract.
+* Wrap COS into gCOS using the Cosmos DAO wrapping contract.
 * The contract address is available in Cosmos DAO’s official documentation.
 
 
@@ -21,15 +21,15 @@
 
 **Vote:**
 
-* Use gKOS to vote on proposals via Snapshot or an on-chain voting platform.
+* Use gCOS to vote on proposals via Snapshot or an on-chain voting platform.
 
 
 
 **Check Rewards:**
 
-* gKOS holders receive rebase rewards, which are periodically reflected in their wallets.
+* gCOS holders receive rebase rewards, which are periodically reflected in their wallets.
 
 
 
 **In Simple Terms:**\
-Buy KOS, convert it to gKOS, share opinions, and vote in the community. You can earn staking rewards while participating in voting.
+Buy COS, convert it to gCOS, share opinions, and vote in the community. You can earn staking rewards while participating in voting.

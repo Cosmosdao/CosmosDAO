@@ -15,11 +15,11 @@ All decisions are transparently recorded on the blockchain, preventing hidden ma
 
 2. **Connection Between Staking and Governance**
 
-* gKOS holders receive staking rewards, following the same rebase mechanism as sKOS (Staked KOS).
-* Rebases occur periodically (e.g., every 8 hours), with rewards adjusted based on KOS supply and treasury conditions.
+* gCOS holders receive staking rewards, following the same rebase mechanism as sCOS (Staked COS).
+* Rebases occur periodically (e.g., every 8 hours), with rewards adjusted based on COS supply and treasury conditions.
 * This serves as an incentive to encourage governance participation.
 
 \
 **In Simple Terms:**&#x20;
 
-Holding gKOS provides not only voting rights but also additional rewards, making participation more appealing.
+Holding gCOS provides not only voting rights but also additional rewards, making participation more appealing.
