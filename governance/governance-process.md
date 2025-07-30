@@ -16,7 +16,7 @@ description: >-
 
 **Voting:**
 
-* gKOS holders vote on proposals, choosing to approve, reject, or abstain.
+* gCOS holders vote on proposals, choosing to approve, reject, or abstain.
 * Voting occurs on-chain (e.g., Polygon blockchain) and is transparently recorded.
 * The voting period typically lasts 3–7 days.
 
@@ -31,9 +31,9 @@ description: >-
 
 **Profit Distribution:**
 
-* If executed derivatives generate profits, those profits are distributed as sKOS to governance participants, the Pool, providers, and Cosmos DAO community members.
+* If executed derivatives generate profits, those profits are distributed as sCOS to governance participants, the Pool, providers, and Cosmos DAO community members.
 
 
 
 **In Simple Terms:**\
-Cosmos DAO functions like an online shareholder meeting. gKOS holders propose new ideas, vote on decisions, and approved actions are automatically executed.
+Cosmos DAO functions like an online shareholder meeting. gCOS holders propose new ideas, vote on decisions, and approved actions are automatically executed.
