@@ -9,7 +9,7 @@ description: >-
 ### Securing Protocol-Owned Liquidity:
 
 \
-Drawing inspiration from Olympus DAO’s bonding mechanism, Cosmos DAO locks liquidity into its protocol treasury to establish a stable asset foundation. This reduces reliance on market volatility and fosters a sustainable DeFi ecosystem.
+Cosmos DAO locks liquidity into its protocol treasury to establish a stable asset foundation. This reduces reliance on market volatility and fosters a sustainable DeFi ecosystem.
 
 ### Community-Driven Governance:
 

@@ -10,7 +10,7 @@ description: >-
 ### Bonding
 
 \
-Users can bond DAI to purchase Cosmos DAO’s stablecoin at a discounted rate, which can then be exchanged for governance tokens. Bonded assets are locked in the protocol’s treasury, enhancing liquidity and strengthening the ecosystem’s financial foundation.
+Users can bond DAI to purchase stablecoin at a discounted rate, which can then be exchanged for governance tokens. Bonded assets are locked in the protocol’s treasury, enhancing liquidity and strengthening the ecosystem’s financial foundation.
 
 ### Staking
 
