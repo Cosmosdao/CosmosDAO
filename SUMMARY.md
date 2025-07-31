@@ -13,6 +13,7 @@
 * [$COS](about-cosmosdao/usdcos/README.md)
   * [COS and gCOS](about-cosmosdao/usdcos/cos-and-gcos.md)
   * [Smart contract](about-cosmosdao/usdcos/smart-contract.md)
+  * [Rebase system](about-cosmosdao/usdcos/rebase-system.md)
   * [RBS(Range Bound Stability)](about-cosmosdao/usdcos/rbs-range-bound-stability.md)
 * [Treasury](about-cosmosdao/treasury.md)
 
