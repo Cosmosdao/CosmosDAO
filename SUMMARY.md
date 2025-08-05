@@ -12,7 +12,7 @@
 ## $COS
 
 * [COS and xCOS](usdcos/cos-and-xcos.md)
-* [Cos's Smart Contract](usdcos/coss-smart-contract.md)
+* [Smart Contract](usdcos/smart-contract.md)
 * [Rebase System](usdcos/rebase-system.md)
 * [RBS(Range Bound Stability)](usdcos/rbs-range-bound-stability.md)
 
