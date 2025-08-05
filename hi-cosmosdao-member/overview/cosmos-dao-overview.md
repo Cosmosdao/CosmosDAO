@@ -2,7 +2,7 @@
 
 ## What is Cosmos DAO?
 
-Cosmos DAO is a decentralized autonomous organization (DAO) operating on the Polygon network, with ambitions to enable cross-chain interoperability across all blockchain ecosystems. As a trailblazing platform in the DeFi 3.0 landscape, it aims to construct an innovative financial ecosystem. By leveraging bonding and staking mechanisms, Cosmos DAO unlocks new possibilities in the Web3 bond market while prioritizing community-driven governance, asset management, and protocol-owned liquidity (POL). The platform is dedicated to supporting emerging DeFi projects within its ecosystem and managing its treasury with efficiency and transparency, fostering a sustainable and decentralized financial system.
+Cosmos DAO is a decentralized autonomous organization (DAO) operating on the Polygon network, with ambitions to enable cross-chain interoperability across all blockchain ecosystems. As a trailblazing platform in the DeFi 3.0 landscape, it aims to construct an innovative financial ecosystem. By leveraging bonding and staking mechanisms, Cosmos DAO unlocks new possibilities in the Web3 bond market while prioritizing community-driven governance, asset management, and DAO Managed Liquidity (DML). The platform is dedicated to supporting emerging DeFi projects within its ecosystem and managing its treasury with efficiency and transparency, fostering a sustainable and decentralized financial system.
 
 
 

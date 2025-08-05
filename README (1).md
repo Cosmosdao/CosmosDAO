@@ -4,7 +4,7 @@ Website : [cosmosdao.org](https://cosmosdao.org/)
 
 Dex :&#x20;
 
-
+Smart contract:&#x20;
 
 **Community**
 
