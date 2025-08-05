@@ -8,14 +8,6 @@
   * [What Can You Do in Cosmos DAO?](hi-cosmosdao-member/overview/what-can-you-do-in-cosmos-dao.md)
 * [Links](<README (1).md>)
 
-## About CosmosDAO
-
-* [$COS](about-cosmosdao/usdcos/README.md)
-  * [COS and xCOS](about-cosmosdao/usdcos/cos-and-xcos.md)
-  * [Smart contract](about-cosmosdao/usdcos/smart-contract.md)
-  * [Rebase system](about-cosmosdao/usdcos/rebase-system.md)
-  * [RBS(Range Bound Stability)](about-cosmosdao/usdcos/rbs-range-bound-stability.md)
-
 ## $COS
 
 * [COS and xCOS](usdcos/cos-and-xcos.md)
