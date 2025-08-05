@@ -19,10 +19,10 @@
 
 ## Governance
 
-* [xCOS](governance/xcos.md)
-* [Governance process](governance/governance-process.md)
+* [xCOS's Governance](governance/xcoss-governance.md)
 * [How to Participate in Governance](governance/how-to-participate-in-governance.md)
 * [Key Governance Decisions](governance/key-governance-decisions.md)
+* [Governance Lifecycle](governance/governance-lifecycle.md)
 * [Features of On-Chain Governance](governance/features-of-on-chain-governance.md)
 
 ***

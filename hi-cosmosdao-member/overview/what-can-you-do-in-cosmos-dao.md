@@ -29,7 +29,7 @@ Cosmos DAO offers a comprehensive range of activities that empower participants 
 
 
 * **Structured Finance Development & Infinity Scaling**\
-  Cosmos DAO's Core Innovation:\
+  **Cosmos DAO's Core Innovation:**\
   Community members can propose and develop innovative structured financial products targeting every market in the world:
   *   **Product Development Process**
 
