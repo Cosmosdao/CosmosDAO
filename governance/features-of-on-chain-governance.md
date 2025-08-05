@@ -15,7 +15,7 @@ All decisions are openly recorded on the blockchain, preventing any hidden manip
 
 #### Connection Between Staking and Governance
 
-xCOS holders are entitled to staking rewards, aligned with the same rebase mechanism as sCOS (Staked COS).
+xCOS holders are entitled to staking rewards, aligned with the same rebase mechanism
 
 * **Rebase Mechanism**: Rebase events occur periodically (e.g., every 8 hours), with reward adjustments dynamically calculated based on COS supply, treasury revenue, and market conditions to maintain stability and incentivize participation.
 * **Reward Distribution**: Rewards are automatically credited to xCOS holders’ wallets, reflecting their contribution to the ecosystem’s liquidity and governance.
