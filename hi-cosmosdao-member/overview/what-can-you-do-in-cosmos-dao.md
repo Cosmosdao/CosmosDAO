@@ -11,7 +11,7 @@ Cosmos DAO offers a comprehensive range of activities that empower participants 
 
 * **Bonding**\
   Users can bond DAI to purchase $COS tokens at discounted rates, which can then be exchanged for governance tokens. Bonded assets are locked in the protocol's treasury, strengthening liquidity and reinforcing the ecosystem's financial foundation.\
-  Additionally, participants can acquire $COS tokens through discounted bonds by transferring liquidity provider (LP) tokens to the protocol, contributing to Protocol-Owned Liquidity (POL) development.
+  Additionally, participants can acquire $COS tokens through discounted bonds by transferring liquidity provider (LP) tokens to the protocol, contributing to DAO Managed Liquidity(DML) development.
 
 
 
@@ -44,13 +44,13 @@ Cosmos DAO offers a comprehensive range of activities that empower participants 
 
 
 *   **Infinity Scaling Revenue Model**\
-    Core Mechanism:
+    **Core Mechanism:**
 
     * Development loan → Product launch → Principal recovery → Continuous interest revenue
-    * **Sustainable Revenue Cycle**:
+    * **Sustainable Revenue Cycle:**
       * $1M Development Loan → Financial Product Launch → $1M Principal Recovery via Sales → DAO earns 8-15% continuous interest → Investors receive bonds and residual profits → Development funds recycled for new products → Infinite iteration
-    * **Token Demand Growth Effect**:\
-      As treasury lending becomes active, individuals and institutions requiring loans will purchase and hold $COS tokens for governance voting participation. This creates sustained $COS token demand and long-term value appreciation.
+    * **Token Demand Growth Effect**:
+      * As treasury lending becomes active, individuals and institutions requiring loans will purchase and hold $COS tokens for governance voting participation. This creates sustained $COS token demand and long-term value appreciation.
 
 
 *   **Self-Reinforcing Ecosystem**

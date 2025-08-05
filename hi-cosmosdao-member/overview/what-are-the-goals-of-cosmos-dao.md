@@ -8,17 +8,20 @@ description: >-
 
 ## Goals of Cosmos DAO
 
-#### 1.Community-Driven Governance
+#### 1. Community-Driven Governance
 
 Cosmos DAO establishes community governance as the foundation of all strategic decision-making. By empowering token holders to shape the protocol's direction through voting, we eliminate centralized decision-making entirely and implement a truly decentralized governance model that serves as the cornerstone of all our initiatives.
 
-#### 2.DAO-Owned Liquidity (DOL)
+
+
+#### 2. DAO-Owned Liquidity (DOL)
 
 Through governance-driven asset management, Cosmos DAO employs bonding mechanisms to securely lock liquidity into our protocol treasury. This approach reduces dependence on market volatility and fosters a self-sustaining and resilient DeFi ecosystem built on community-controlled foundations.
 
 
 
-**3.DeFi Ecosystem Expansion & Innovation**\
+#### **3.DeFi Ecosystem Expansion & Innovation**
+
 We combine cross-chain interoperability with tokenization of traditional financial instruments to build a next-generation DeFi ecosystem:
 
 * **Hybrid Defi Model**  \
@@ -32,8 +35,9 @@ We combine cross-chain interoperability with tokenization of traditional financi
 
 
 
-**4.Maximizing Treasury Revenue**\
-Through governance-centric integrated revenue generation strategies, we pursue sustainable high yields:
+#### **4.Maximizing Treasury Revenue**
+
+Through governance-centric integrated revenue generation strategies, we pursue sustainable high yields:
 
 * Attractive Annual Percentage Yields (APY) through staking and bonding mechanisms
 * Diversified investment portfolio including RWA-based products, CDS platforms, and lending products
