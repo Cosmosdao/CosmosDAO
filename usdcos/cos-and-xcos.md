@@ -1,6 +1,6 @@
 # COS and xCOS
 
-#### COS Overview
+### COS Overview
 
 COS is the native token of CosmosDAO, a decentralized finance (DeFi) protocol, and is fully backed by the protocol's treasury. Unlike traditional stablecoins pegged to fiat currencies like the dollar or won, COS is designed as a free-floating flatcoin that maintains a transparently defined price range using the Range Bound Stability (RBS) system. COS bridges the gap between fiat-backed stablecoins and highly volatile cryptocurrency assets, offering relative price stability and scalability.
 

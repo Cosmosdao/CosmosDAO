@@ -15,7 +15,13 @@
   * [Smart contract](about-cosmosdao/usdcos/smart-contract.md)
   * [Rebase system](about-cosmosdao/usdcos/rebase-system.md)
   * [RBS(Range Bound Stability)](about-cosmosdao/usdcos/rbs-range-bound-stability.md)
-* [Treasury](about-cosmosdao/treasury.md)
+
+## $COS
+
+* [COS and xCOS](usdcos/cos-and-xcos.md)
+* [Cos's Smart Contract](usdcos/coss-smart-contract.md)
+* [Rebase System](usdcos/rebase-system.md)
+* [RBS(Range Bound Stability)](usdcos/rbs-range-bound-stability.md)
 
 ## Governance
 
