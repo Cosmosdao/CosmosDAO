@@ -18,7 +18,9 @@
 
 ## TREASURY
 
-* [Overview](treasury/overview.md)
+* [Introduction](treasury/overview.md)
+* [Financial Cycle Model](treasury/financial-cycle-model.md)
+* [Cosmos DAO Treasury Advantages](treasury/cosmos-dao-treasury-advantages.md)
 
 ## Governance
 
