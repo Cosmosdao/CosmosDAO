@@ -30,11 +30,6 @@
 * [Governance Lifecycle](governance/governance-lifecycle.md)
 * [Features of On-Chain Governance](governance/features-of-on-chain-governance.md)
 
-***
-
-* [------------------](undefined.md)
-* [Security](security.md)
-
 ## Security
 
-* [Security Links](security-1/security-links.md)
+* [Security Links](security/security-links.md)
