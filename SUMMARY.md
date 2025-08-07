@@ -33,7 +33,8 @@
 ***
 
 * [------------------](undefined.md)
+* [Security](security.md)
 
 ## Security
 
-* [Security Links](security/security-links.md)
+* [Security Links](security-1/security-links.md)
