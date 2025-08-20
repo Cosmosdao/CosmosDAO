@@ -4,13 +4,13 @@
 
 The following variables are used in the COSMOS DAO rebase mechanism:
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 #### **2. 30-Day Moving Average Price**
 
 The 30-day moving average priceMA30 is calculated as the average of the daily closing prices of the $COS token over the past 30 days:
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -22,7 +22,7 @@ The conditions are:
 
 *   **Price exceeds MA30 by more than 20%:**
 
-    <div data-full-width="true"><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
+    <div data-full-width="true"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
 
     &#x20;                                                          Increase the supply to lower the price.
 * **Price falls below MA30 by more than 20%:**

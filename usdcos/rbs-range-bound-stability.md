@@ -10,6 +10,16 @@ The Range-Bound Stability (RBS) system is an automated price stabilization mecha
 * **Objective**: Stabilize COS’s market price around the higher of the 30-day Moving Average (MA) or the Liquid Backing Price (LBP).
 * **Mechanism**:
   * **Price Range**: Sets Upper and Lower Walls/Cushions based on the 30-day MA, with a current spread of 20% for each.
+    *   Upper and lower walls are set based on the target price with a 20% spread.
+
+        *   Upper Wall:
+
+            <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+        * Lower Wall:
+
+        <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
   *   **Market Intervention**:
 
       * If the price falls below the Lower Cushion/Wall, the protocol uses reserves (e.g., DAI) to buy COS, supporting the price.
@@ -19,6 +29,17 @@ The Range-Bound Stability (RBS) system is an automated price stabilization mecha
 * **Capacity**:
   * Lower Wall capacity is set as a percentage of reserves (Reserve Factor).
   * Upper Wall capacity is calculated based on the Lower Wall capacity, price, and spread.
+  *   Capacity Calculations
+
+      * **Lower Wall Capacity**: Percentage of reserves (Reserve Factor)
+
+      <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+      * **Upper Wall Capacity**: Calculated based on lower capacity, price, and spread (estimated as value balance: lower capacity value / upper wall price)
+
+      <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 * **Wall Regeneration**: If a wall’s capacity is exhausted, no new wall is created until the price stabilizes below the 30-day MA for a set period (X/Y epochs).
 * **Target Price Adjustment**: If the 30-day MA falls below the Liquid Backing Price, the target price shifts to the LBP.
 * **DAO-Owned Liquidity (DOL)**: Most COS liquidity is protocol-owned, and RBS balances liquidity and reserves.
