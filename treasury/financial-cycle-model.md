@@ -29,13 +29,17 @@ The Treasury maintains a diversified portfolio to optimize returns, mitigate ris
 
 
 
-#### **3. Price Stability (Rebasing Mechanism)**
+#### **3.** Price Stability (Rebasing Mechanism)
 
-The Treasury employs a sophisticated rebasing mechanism to maintain the $COS token’s value at a target price of 1 USD, ensuring stability and predictability.
+\
+The Treasury employs a sophisticated rebasing mechanism to maintain the $COS token’s value within a stable range, using the 30-day moving average as a reference, ensuring stability and predictability. Target Price Range:\
+$COS is calibrated to maintain a stable value within ±20% of the 30-day moving average.&#x20;
 
-* **Target Price**: $COS is calibrated to maintain a stable value of 1 USD through daily rebasing cycles.
-* **Adjustment Logic**:
-  * **Price > 1 USD**: The $COS supply is increased to reduce the price toward the target.
-  * **Price < 1 USD**: The $COS supply is reduced through buybacks and burning to raise the price to the target.
-  * **Price = 1 USD**: No supply adjustments are made, maintaining equilibrium.
-* **Backing**: Each $COS token is supported by a minimum value of 1 DAI, backed by Treasury reserves, ensuring robust price stability.
+Adjustment Logic:
+
+* **Price >20% above the 30-day moving average:** The system increases the total supply of $COS tokens to bring the price down toward the target range.
+* **Price <20% below the 30-day moving average**: The system decreases the total supply of $COS tokens through buybacks and burning to push the price up toward the target range.
+* **Price within ±20% of the 30-day moving average**: No adjustment is made to the supply, maintaining equilibrium.
+
+**Backing**:\
+Each $COS token is supported by a minimum value of 1 DAI, backed by Treasury reserves, ensuring robust price stability.
