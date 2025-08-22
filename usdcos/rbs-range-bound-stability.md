@@ -4,8 +4,7 @@
 
 The Range-Bound Stability (RBS) system is an automated price stabilization mechanism implemented by Cosmos DAO to reduce volatility and establish COS as a stable reserve currency.
 
-\
-**Its key features are:**
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 * **Objective**: Stabilize COS’s market price around the higher of the 30-day Moving Average (MA) or the Liquid Backing Price (LBP).
 * **Mechanism**:
