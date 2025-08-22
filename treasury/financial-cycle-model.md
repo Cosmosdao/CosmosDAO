@@ -23,6 +23,8 @@ The Treasury leverages a robust governance framework, empowering $COS token hold
 
 The Treasury maintains a diversified portfolio to optimize returns, mitigate risks, and support the protocol’s objectives.
 
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
 * **Portfolio Composition**: Includes $COS tokens, stablecoins (e.g., DAI), ETH, and liquidity provider (LP) tokens, ensuring a balanced and resilient asset base.
 * **Rebalancing**: Periodic portfolio rebalancing is conducted based on market conditions and DAO-approved strategies to minimize risk and enhance stability.
 * **DeFi Integration**: Assets are strategically deployed in DeFi protocols, including liquidity pools, staking platforms, and lending systems, to generate sustainable revenue while supporting ecosystem growth.

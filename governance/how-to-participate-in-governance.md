@@ -1,6 +1,6 @@
 # How to Participate in Governance
 
-#### Acquiring and Utilizing xCOS: A Refined Guide
+### Acquiring and Utilizing xCOS: A Refined Guide
 
 1. **Obtain COS**:\
    Secure COS tokens by purchasing them on a decentralized exchange (DEX) or acquire them at a discounted rate through the Cosmos DAO bonding mechanism, enhancing your entry into the ecosystem.
@@ -15,9 +15,9 @@
 6. **Check Rewards**:\
    As an xCOS holder, enjoy periodic rebase rewards, automatically credited to your wallet, reflecting your staking contributions.
 
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-
-#### Benefits of Governance Participation
+### Benefits of Governance Participation
 
 Participating in governance offers the following advantages:
 

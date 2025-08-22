@@ -1,12 +1,12 @@
 # xCOS's Governance
 
-#### What is xCOS?
+### What is xCOS?
 
 xCOS is an ERC-20-based token of CosmosDAO, a versatile multi-purpose token obtained by staking COS at a 1:1 ratio. For example, staking 100 COS yields 100 xCOS. This token serves as the backbone of community engagement and ecosystem participation within CosmosDAO, integrating staking, governance, and utility functions seamlessly.
 
 
 
-**Role**
+### **Role**
 
 xCOS holders are empowered to participate in policy proposals and voting for CosmosDAO, playing a pivotal role in shaping the protocol’s future. Voting rights are exclusively granted to xCOS holders, ensuring active participation is a prerequisite for influence.
 
@@ -23,7 +23,7 @@ xCOS holders are empowered to participate in policy proposals and voting for Cos
 
 
 
-**Advantages of CosmosDAO's Governance**&#x20;
+### **Advantages of CosmosDAO's Governance**&#x20;
 
 *   **Decentralized Control**:&#x20;
 

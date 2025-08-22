@@ -6,7 +6,7 @@ description: >-
 
 # Governance Lifecycle
 
-## Lifecycle of Cosmos DAO
+### Lifecycle of Cosmos DAO
 
 The Cosmos DAO governance lifecycle is a transparent, community-driven process that empowers xCOS token holders to shape the ecosystem through decentralized decision-making. This enhanced version refines the process with added clarity, risk mitigation, and alignment with blockchain mechanics, emphasizing xCOS and Range-Bound Stability (RBS) mechanisms. The lifecycle ensures inclusivity, security, and efficiency, culminating in reward distribution to sustain participation and ecosystem growth.
 
