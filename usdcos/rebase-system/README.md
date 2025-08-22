@@ -12,7 +12,7 @@ Rebasing is the automatic adjustment of the COS token supply to influence its pr
 \
 The rebasing system operates on a daily cycle, comparing the COS token price to its 30-day moving average. Supply adjustments occur as follows:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **If the COS price is >20% above the 30-day moving average:**&#x20;
   * The system increases the total supply of COS tokens to bring the price down toward the target range.

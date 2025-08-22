@@ -1,100 +1,147 @@
-# Rebase Mechanism
+---
+description: >-
+  Rebasing adjusts the token supply at fixed intervals to prevent the market
+  price from deviating too far upward or downward. This mechanism ensures
+  long-term sustainability of token value.
+---
 
-#### 1. Key Variables
+# 🔄Rebase Mechanism
 
-The following variables are used in the COSMOS DAO rebase mechanism:
+| Item           | Description                             |
+| -------------- | --------------------------------------- |
+| **Cycle**      | Every 8 hours (UTC 00:00, 08:00, 16:00) |
+| **Price Data** | Based on Chainlink Oracle               |
+| **Logic**      | Adjust supply to keep price within ±20% |
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+​
 
-#### **2. 30-Day Moving Average Price**
+## **Trigger Conditions**
 
-The 30-day moving average priceMA30 is calculated as the average of the daily closing prices of the $COS token over the past 30 days:
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
-
-
-
-#### **3. Rebase Conditions**
-
-The rebase mechanism triggers when the market pricePt deviates by more than ±20% from the 30-day moving averageMA30.&#x20;
-
-The conditions are:
-
-*   **Price exceeds MA30 by more than 20%:**
-
-    <div data-full-width="true"><figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
-
-    &#x20;                                                          Increase the supply to lower the price.
-* **Price falls below MA30 by more than 20%:**
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-<p align="center">  Decrease the supply (via buybacks and burns) to raise the price.</p>
-
-*   **Price within ±20% ofMA30:**
-
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
-<p align="center">        No supply adjustment.</p>
-
-<p align="center"></p>
-
-#### **4. Supply Adjustment**
-
-he supply adjustment during a rebase is calculated based on the deviation of the market pricePt from MA30. The goal is to bring PricePt closer to MA30:
-
-*   **Supply increase (when price is too high):**
-
-    <div align="left"><figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
-* **Supply decrease (when price is too low):**
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
-
-* **New supply:**
-
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+* **If the COS price is >20% above the 30-day moving average:**&#x20;
+  * The system increases the total supply of COS tokens to bring the price down toward the target range.
+* **If the COS price is <20% below the 30-day moving average:**&#x20;
+  * The system decreases the total supply of COS tokens to push the price up toward the target range.
+* **If the COS price is within ±20% of the 30-day moving average:**&#x20;
+  * No adjustment is made to the supply.
 
 
 
-#### **5. Staking Rewards and Compounding**
+**Supply Adjustment Formula**
 
-Staked $COS tokens (xCOS) accrue an interest rate ( r ) per rebase, which is determined by DAO governance (e.g., the current example rate is 0.3957%).&#x20;
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-The xCOS balance is updated as follows:
+**Example**
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
 
-With three rebases per day (every 8 hours), the daily compounding effect is:
+**1.Supply Increase:**
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**2.Supply Decrease:**
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+
+
+## **Staking (xCOS)**
+
+When staking COS, it is converted into xCOS, which compounds automatically with every rebase. This means long-term holders benefit from **compound interest growth** as rewards accumulate continuously.
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+| Variable      | Description              |
+| ------------- | ------------------------ |
+| xCOS\_new     | Final xCOS balance       |
+| xCOS\_current | Current xCOS balance     |
+| r             | Interest rate per rebase |
+| n             | Number of rebases        |
+
+
+
+**Example**
+
+1. New COS Amount
+
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+2. Annual APY
+
+
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-The annual compounding effect (365 days, approximately 1095 rebases) is:
+This is not a simple high-risk/high-return scheme—it reflects **continuous compounded growth** over time.
+
+
+
+#### ⚖️ Interest Rate Determination
+
+The staking interest rate is not fixed. It is determined by DAO governance based on **Treasury profitability** and the need for **ecosystem stability**.
+
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
+
+| Variable       | Description        |
+| -------------- | ------------------ |
+| Y\_treasury    | Treasury yield     |
+| S\_circulating | Circulating supply |
+| r\_max         | Maximum rate       |
+
+
+
+#### Staking Reward Distribution
+
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+| Variable  | Description                |
+| --------- | -------------------------- |
+| R\_i      | Reward for staker _i_      |
+| xCOS\_i   | xCOS balance of staker _i_ |
+| \sum xCOS | Total staked xCOS          |
+| R\_total  | Total rewards pool         |
+
+**Example**
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+Thus, larger stakes earn larger rewards, but **all stakers receive a fair proportional share**.
+
+
+
+
+
+
+
+### 🛡 Price Defense
+
+If the market price falls below the intrinsic backing value, a **Buyback and Burn** mechanism is triggered to defend the token price.
+
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+**Example**
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-**Note**: The interest rate ( r ) is not fixed and is subject to change based on DAO governance decisions. The current rate of 0.3957% is provided as an example.
 
 
 
-#### 6. Price Defense Mechanism
 
-If the market pricePt falls below the minimum backing valueBt = DAI, the protocol initiates buybacks and burns using Treasury assets.&#x20;
+### Buyback Funding
 
-The buyback amount is:
+Buybacks are not unlimited—they are constrained by Treasury resources and DAO-defined rules.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-The supply after burning is:
+**Example**
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
-
-The Treasury’s asset value decreases after the buyback:
-
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
-
-#### 7. Treasury Backing Constraint
-
-Each $COS token must be backed by at least 1 DAI, ensuring the Treasury’s asset value satisfies:
-
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-

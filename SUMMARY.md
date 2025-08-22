@@ -14,7 +14,7 @@
 * [COS and xCOS](usdcos/cos-and-xcos.md)
 * [Smart Contract](usdcos/smart-contract.md)
 * [Rebase System](usdcos/rebase-system/README.md)
-  * [Rebase Mechanism](usdcos/rebase-system/rebase-mechanism.md)
+  * [🔄Rebase Mechanism](usdcos/rebase-system/rebase-mechanism.md)
 * [RBS(Range Bound Stability)](usdcos/rbs-range-bound-stability.md)
 
 ## TREASURY
