@@ -13,7 +13,7 @@ Cosmos DAO offers a comprehensive range of activities that empower participants 
   Users can bond DAI to purchase $COS tokens at discounted rates, which can then be exchanged for governance tokens. Bonded assets are locked in the protocol's treasury, strengthening liquidity and reinforcing the ecosystem's financial foundation.\
   Additionally, participants can acquire $COS tokens through discounted bonds by transferring liquidity provider (LP) tokens to the protocol, contributing to DAO Managed Liquidity(DML) development.
 
-
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 * **Staking**\
   By staking tokens, participants can earn interest from the protocol. Staking also grants voting rights, incentivizing active participation in governance processes and protocol evolution.\

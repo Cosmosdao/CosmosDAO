@@ -4,6 +4,8 @@
 
 COS is the native token of CosmosDAO, a decentralized finance (DeFi) protocol, and is fully backed by the protocol's treasury. Unlike traditional stablecoins pegged to fiat currencies like the dollar or won, COS is designed as a free-floating flatcoin that maintains a transparently defined price range using the Range Bound Stability (RBS) system. COS bridges the gap between fiat-backed stablecoins and highly volatile cryptocurrency assets, offering relative price stability and scalability.
 
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 #### Key Features of COS
 
 * **Non-Pegged Design:**\
@@ -22,7 +24,7 @@ COS is the native token of CosmosDAO, a decentralized finance (DeFi) protocol, a
 
 ### xCOS: Integrated Token System
 
-CosmosDAO introduces xCOS as a single token to enhance accessibility and functionality. xCOS integrates staking rewards and governance features, supporting staking, governance, and real-world asset (RWA) platform activities.
+CosmosDAO introduces xCOS as a single token to enhance accessibility and functionality. xCOS integrates staking rewards and governance features, supporting staking, governance, and Hybrid Defi platform activities.
 
 #### xCOS Functions
 
@@ -35,7 +37,7 @@ CosmosDAO introduces xCOS as a single token to enhance accessibility and functio
 
 
 
-*   **RWA Platform Utility:**\
+*   **Hybrid Defi Platform Utility:**\
     x**COS plays a central role in CosmosDAO's Hybrid Defi platform:**
 
     * Participation in liquidity pools or DeFi functionalities.
@@ -44,5 +46,5 @@ CosmosDAO introduces xCOS as a single token to enhance accessibility and functio
 
 
 * **Enhanced Accessibility:**\
-  xCOS consolidates all functions into a single token, reducing complexity and enabling users with limited technical knowledge to easily participate in staking, governance, and RWA activities.\
+  xCOS consolidates all functions into a single token, reducing complexity and enabling users with limited technical knowledge to easily participate in staking, governance, and Hybrid Defi activities.\
   A user-friendly interface ensures accessibility for both beginners and experienced users.
